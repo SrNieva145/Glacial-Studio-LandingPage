@@ -144,7 +144,7 @@ nav {
 }
 
 .hero-logo {
-  width: min(280px, 55vw);
+  width: min(420px, 70vw);
   margin-bottom: 2.5rem;
   filter: drop-shadow(0 0 40px rgba(91,200,245,0.4));
   animation: float 6s ease-in-out infinite;
